@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Airlines.xsl"?>
+<Airlines>
+    <Airline InternationalFlight = "yes">
+        <Name> American Airlines </Name>
+        <Reservation>
+            <Phone>  1 800 - 738 - 9000 </Phone>
+            <Url> http:\\www.aa.com </Url>
+        </Reservation>
+        <Headquarter zip = "93456">
+            <City> Dallas </City>
+            <State> Texas </State>
+        </Headquarter>
+        <Alliance> One World</Alliance>
+    </Airline>
+    <Airline InternationalFlight = "yes">
+        <Name> Southwest Airlines </Name>
+        <Reservation>
+            <Phone>  1 800 - 345 - 7000 </Phone>
+            <Url> http:\\www.southwest.com </Url>
+        </Reservation>
+        <Headquarter zip = "94040">
+            <City> San Francisco </City>
+            <State> California </State>
+        </Headquarter>
+        <Alliance> Southwest </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "no">
+        <Name> US Airways </Name>
+        <Reservation>
+            <Phone>  1 800 - 345 - 8763 </Phone>
+            <Url> http:\\www.usairways.com </Url>
+        </Reservation>
+        <Headquarter zip = "76456">
+            <City> Dallas </City>
+            <State> Texas </State>
+        </Headquarter>
+        <Alliance> None </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "yes">
+        <Name> China Eastern Airlines </Name>
+        <Reservation>
+            <Phone>  1 800 - 444 - 5555 </Phone>
+            <Url> http:\\www.flychinaeastern.com </Url>
+        </Reservation>
+        <Headquarter>
+            <City> Shanghai </City>
+            <State> China </State>
+        </Headquarter>
+        <Alliance> StarAlliance </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "yes">
+        <Name> Air India </Name>
+        <Reservation>
+            <Phone>  1 800 - 234 - 6666 </Phone>
+            <Url> http:\\www.airindia.com </Url>
+        </Reservation>
+        <Headquarter>
+            <City> New Delhi </City>
+            <State> New Delhi </State>
+        </Headquarter>
+        <Alliance> AirIndia </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "yes">
+        <Name> Virgin Atlantic </Name>
+        <Reservation>
+            <Phone>  1 800 - 222 - 3333 </Phone>
+            <Url> http:\\www.virginatlantic.com </Url>
+        </Reservation>
+        <Headquarter zip = "30400">
+            <City> New York </City>
+            <State> New York </State>
+        </Headquarter>
+        <Alliance> None </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "no">
+        <Name> Delta Airlines </Name>
+        <Reservation>
+            <Phone>  1 800 - 768 - 0786 </Phone>
+            <Url> http:\\www.deltaair.com </Url>
+        </Reservation>
+        <Headquarter>
+            <City> Chicago </City>
+            <State> Illinois </State>
+        </Headquarter>
+        <Alliance> None </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "no">
+        <Name> Alaska Airlines </Name>
+        <Reservation>
+            <Phone>  1 800 - 111 - 2345 </Phone>
+            <Url> http:\\www.alaskaair.com </Url>
+        </Reservation>
+        <Headquarter zip = "78800">
+            <City> Anchorage </City>
+            <State> Alaska </State>
+        </Headquarter>
+        <Alliance> None </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "yes">
+        <Name> Singapore Airlines </Name>
+        <Reservation>
+            <Phone>  1 800 - 444 - 4444 </Phone>
+            <Url> http:\\www.singaporeair.com </Url>
+        </Reservation>
+        <Headquarter>
+            <City> Changi </City>
+            <State> Singapore </State>
+        </Headquarter>
+        <Alliance> StarAlliance </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "yes">
+        <Name> Emirates </Name>
+        <Reservation>
+            <Phone>  1 800 - 111 - 1111 </Phone>
+            <Url> http:\\www.emirates.com </Url>
+        </Reservation>
+        <Headquarter>
+            <City> Dubai </City>
+            <State> Dubai </State>
+        </Headquarter>
+        <Alliance> None </Alliance>
+    </Airline>
+    <Airline InternationalFlight = "yes">
+        <Name> Etihad Airways </Name>
+        <Reservation>
+            <Phone>  1 800 - 222 - 2323 </Phone>
+            <Url> http:\\www.etihad.com </Url>
+        </Reservation>
+        <Headquarter>
+            <City> Abu Dhabi </City>
+            <State> UAE </State>
+        </Headquarter>
+        <Alliance> None </Alliance>
+    </Airline>
+</Airlines>
